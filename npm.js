@@ -3,6 +3,8 @@
 
 //local dependency - use it only in this particular project
 //npm i <packageName>
+//ex: npm i nodemon -D  )to install as a dev dependency local 
+//remove : npm remove nodemon 
 
 //global dependency - use it in any project
 //npm install -g <packageName>
@@ -12,3 +14,6 @@
 //manual approach (create package.json in the root, create properties etc)
 //npm init (step by step, press enter to skip)
 //npm init -y (everything default)
+
+
+
